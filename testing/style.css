@@ -1,0 +1,629 @@
+.contact {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .contact .div {
+    background-color: #ffffff;
+    border: 1px none;
+    height: 4278px;
+    overflow: hidden;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .contact .line {
+    height: 1px;
+    left: -12122px;
+    position: absolute;
+    top: 12797px;
+    width: 130px;
+  }
+  
+  .contact .frame {
+    height: 4278px;
+    left: -9px;
+    position: absolute;
+    top: 0;
+    width: 1449px;
+  }
+  
+  .contact .overlap {
+    height: 4278px;
+    left: 9px;
+    position: relative;
+    width: 1450px;
+  }
+  
+  .contact .ellipse {
+    background-color: #000000;
+    border-radius: 43.5px/40px;
+    height: 80px;
+    left: 668px;
+    position: absolute;
+    top: 3107px;
+    width: 87px;
+  }
+  
+  .contact .group {
+    height: 4144px;
+    left: 0;
+    position: absolute;
+    top: 134px;
+    width: 1450px;
+  }
+  
+  .contact .overlap-group {
+    background-image: url(./group-39.png);
+    background-size: 100% 100%;
+    height: 256px;
+    left: 726px;
+    position: absolute;
+    top: 923px;
+    width: 637px;
+  }
+  
+  .contact .masukan-dan-saran {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 22px;
+    letter-spacing: 0;
+    line-height: 29.2px;
+    position: absolute;
+    text-align: justify;
+    top: 34px;
+    width: 593px;
+  }
+  
+  .contact .medsos-wrapper {
+    background-image: url(./group-43.png);
+    background-size: 100% 100%;
+    height: 312px;
+    left: 76px;
+    position: absolute;
+    top: 2915px;
+    width: 1287px;
+  }
+  
+  .contact .medsos {
+    height: 152px;
+    left: 194px;
+    position: relative;
+    top: 58px;
+    width: 956px;
+  }
+  
+  .contact .FACEBOOK-sistem {
+    color: #000000;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    left: 647px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 114px;
+  }
+  
+  .contact .YOUTUBE-teknik {
+    color: #000000;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    left: 305px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 114px;
+  }
+  
+  .contact .EMAIL-mailto-ce-it {
+    color: #000000;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 114px;
+  }
+  
+  .contact .text-wrapper {
+    color: #000000;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0;
+  }
+  
+  .contact .span {
+    text-decoration: underline;
+  }
+  
+  .contact .image {
+    height: 80px;
+    left: 755px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 87px;
+  }
+  
+  .contact .img {
+    height: 80px;
+    left: 404px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 87px;
+  }
+  
+  .contact .image-2 {
+    height: 89px;
+    left: 52px;
+    object-fit: cover;
+    position: absolute;
+    top: 5px;
+    width: 89px;
+  }
+  
+  .contact .line-2 {
+    height: 7px;
+    left: 1195px;
+    position: absolute;
+    top: -2px;
+    width: 7px;
+  }
+  
+  .contact .group-2 {
+    height: 713px;
+    left: 78px;
+    position: absolute;
+    top: 98px;
+    width: 1288px;
+  }
+  
+  .contact .text-wrapper-2 {
+    -webkit-text-stroke: 1px #000000;
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    left: 88px;
+    letter-spacing: 1.12px;
+    line-height: normal;
+    position: absolute;
+    top: 859px;
+    width: 557px;
+  }
+  
+  .contact .overlap-2 {
+    height: 982px;
+    left: 76px;
+    position: absolute;
+    top: 1767px;
+    width: 1287px;
+  }
+  
+  .contact .text-wrapper-3 {
+    color: #000000;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 40px;
+    font-weight: 700;
+    left: 546px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 541px;
+    white-space: nowrap;
+  }
+  
+  .contact .group-3 {
+    height: 982px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1287px;
+  }
+  
+  .contact .h-1 {
+    color: #000000;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 40px;
+    font-weight: 700;
+    left: 100px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 2833px;
+    white-space: nowrap;
+    width: 289px;
+  }
+  
+  .contact .tidak-ada-yang {
+    color: #000000;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 30px;
+    font-weight: 700;
+    left: 204px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 3312px;
+    width: 1048px;
+  }
+  
+  .contact .bagian-bawah {
+    height: 551px;
+    left: 0;
+    position: absolute;
+    top: 3593px;
+    width: 1446px;
+  }
+  
+  .contact .overlap-group-2 {
+    background: linear-gradient(180deg, rgba(5, 92, 36, 0.66) 0.52%, rgb(5, 92, 36) 100%);
+    height: 551px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .contact .berita {
+    height: 52px;
+    left: 1153px;
+    position: absolute;
+    top: 132px;
+    width: 192px;
+  }
+  
+  .contact .sosmed {
+    height: 52px;
+    position: relative;
+  }
+  
+  .contact .google-logo {
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 3px 3px 12px #00000026;
+    height: 52px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 52px;
+  }
+  
+  .contact .img-2 {
+    height: 31px;
+    left: 10px;
+    position: absolute;
+    top: 10px;
+    width: 31px;
+  }
+  
+  .contact .apple-logo {
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 3px 3px 12px #00000026;
+    height: 52px;
+    left: 140px;
+    position: absolute;
+    top: 0;
+    width: 52px;
+  }
+  
+  .contact .fb-logo {
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 3px 3px 12px #00000026;
+    height: 52px;
+    left: 70px;
+    position: absolute;
+    top: 0;
+    width: 52px;
+  }
+  
+  .contact .p {
+    color: #ffffff;
+    font-family: "Circular Std-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    height: 25px;
+    left: 1159px;
+    letter-spacing: -0.4px;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 97px;
+  }
+  
+  .contact .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Circular Std-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    height: 25px;
+    left: 491px;
+    letter-spacing: -0.4px;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 456px;
+  }
+  
+  .contact .people-who-are {
+    color: #ffffff;
+    font-family: "Circular Std-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    height: 50px;
+    left: 390px;
+    letter-spacing: -0.4px;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 121px;
+  }
+  
+  .contact .frame-2 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    left: 83px;
+    position: absolute;
+    top: 219px;
+    width: fit-content;
+  }
+  
+  .contact .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "Circular Std-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: -0.4px;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+  }
+  
+  .contact .text-wrapper-6 {
+    color: #ffffff;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: -0.4px;
+    line-height: normal;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .contact .text-wrapper-7 {
+    color: #ffffff;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: -0.4px;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .contact .image-3 {
+    height: 76px;
+    left: 83px;
+    object-fit: cover;
+    position: absolute;
+    top: 100px;
+    width: 208px;
+  }
+  
+  .contact .overlap-wrapper {
+    box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+    height: 248px;
+    left: 80px;
+    position: absolute;
+    top: 923px;
+    width: 631px;
+  }
+  
+  .contact .flex-container-wrapper {
+    background-image: url(./rectangle-32.svg);
+    background-size: 100% 100%;
+    height: 248px;
+    width: 629px;
+  }
+  
+  .contact .flex-container {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    height: 160px;
+    left: 33px;
+    position: relative;
+    top: 31px;
+    width: 484px;
+  }
+  
+  .contact .text {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 21px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    white-space: nowrap;
+    width: 484px;
+  }
+  
+  .contact .text-wrapper-8 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 21px;
+    font-weight: 400;
+    letter-spacing: 0;
+  }
+  
+  .contact .overlap-group-wrapper {
+    box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+    height: 463px;
+    left: 80px;
+    position: absolute;
+    top: 1228px;
+    width: 1281px;
+  }
+  
+  .contact .layanan-pada-hari-wrapper {
+    background-image: url(./image.svg);
+    background-size: 100% 100%;
+    height: 463px;
+    position: relative;
+    width: 1279px;
+  }
+  
+  .contact .layanan-pada-hari {
+    height: 295px;
+    left: 28px;
+    position: absolute;
+    top: 51px;
+    width: 787px;
+  }
+  
+  .contact .navbar {
+    height: 151px;
+    left: 2px;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .contact .group-4 {
+    background-color: #10ae51;
+    border: 1px solid;
+    border-color: #d9d9d9;
+    box-shadow: 0px 4px 4px #00000040;
+    height: 151px;
+    position: relative;
+  }
+  
+  .contact .group-5 {
+    height: 39px;
+    left: 575px;
+    position: absolute;
+    top: 53px;
+    width: 360px;
+  }
+  
+  .contact .text-wrapper-9 {
+    color: #ffffff;
+    font-family: "Circular Std-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0.7px;
+    line-height: 23.1px;
+    position: absolute;
+    top: 9px;
+    white-space: nowrap;
+    width: 66px;
+  }
+  
+  .contact .div-wrapper {
+    background-color: #10ae51;
+    border-radius: 14px;
+    height: 39px;
+    left: 107px;
+    position: absolute;
+    top: 0;
+    width: 92px;
+  }
+  
+  .contact .text-wrapper-10 {
+    color: #ffffff;
+    font-family: "Circular Std-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 9px;
+    letter-spacing: 0.7px;
+    line-height: 23.1px;
+    position: absolute;
+    top: 9px;
+    white-space: nowrap;
+    width: 77px;
+  }
+  
+  .contact .text-wrapper-11 {
+    color: #ffffff;
+    font-family: "Circular Std-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 242px;
+    letter-spacing: 0.7px;
+    line-height: 23.1px;
+    position: absolute;
+    top: 9px;
+    white-space: nowrap;
+    width: 112px;
+  }
+  
+  .contact .group-6 {
+    height: 23px;
+    left: 1301px;
+    position: absolute;
+    top: 57px;
+    width: 88px;
+  }
+  
+  .contact .indonesia {
+    height: 23px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 24px;
+  }
+  
+  .contact .uk {
+    height: 23px;
+    left: 64px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 24px;
+  }
+  
+  .contact .frame-3 {
+    background-image: url(./image.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 76px;
+    left: 100px;
+    position: absolute;
+    top: 34px;
+    width: 208px;
+  }
+  
+  .contact .frame-4 {
+    height: 100px;
+    left: 717px;
+    position: absolute;
+    top: 574px;
+    width: 100px;
+  }
+  
