@@ -1,7 +1,7 @@
 @extends('layout.navbar')
 @section('content')
     <div class="mx-20 mt-20">
-        <img class="w-[1280px] h-[580px] shadow rounded-[25px]" src="{{ asset('assets/akademik/Rectangle 2.png') }}" />
+        <img class="w-[1280px] h-[580px] shadow rounded-[25px] mx-auto" src="{{ asset('assets/akademik/Rectangle 2.png') }}" />
     </div>
 
     <div class="my-10">

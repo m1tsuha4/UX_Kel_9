@@ -1,41 +1,7 @@
 @extends('layout.navbar')
 @section('content')
-{{--<div>--}}
-{{--    <img class="w-full shadow" src="{{ asset('assets/contact/hero.png') }}" width="100%"/>--}}
-{{--</div>--}}
-{{--<div id="Kontak" class="mt-24">--}}
-{{--    <div class="ml-20">--}}
-{{--        <h1 class="text-3xl font-medium">KONTAK</h1>--}}
-{{--        <div>--}}
-{{--            <div class="flex flex-row space-x-10 mt-10">--}}
-{{--                <div class="w-[500px] h-[350px]">--}}
-{{--                    <img src="{{ asset('assets/berita/Rectangle 4 (6).png') }}" alt="berita1" width="100%">--}}
-{{--                    <p class="text-sm font-medium text-center">Lorem Ipsummm</p>--}}
-{{--                </div>--}}
-{{--                <div class="w-[500px] h-[350px]">--}}
-{{--                    <img src="{{ asset('assets/berita/Rectangle 4 (7).png') }}" alt="berita2" width="100%">--}}
-{{--                    <p class="text-sm font-medium text-center">Lorem Ipsummm</p>--}}
-{{--                </div>--}}
-{{--                <div class="w-[500px] h-[300px]">--}}
-{{--                    <img src="{{ asset('assets/berita/Rectangle 4 (9).png') }}" alt="berita3" width="100%">--}}
-{{--                    <p class="text-sm font-medium text-center">Lorem Ipsummm</p>--}}
-{{--                </div>--}}
-{{--            </div>--}}
-{{--        </div>--}}
-{{--    </div>--}}
-{{--</div>--}}
-{{--<div class="mt-9">--}}
-{{--    <div class="bg-green-800 bg-opacity-30  mt-3 rounded-xl shadow-lg py-16 px-10 mx-12">--}}
-{{--        <img class=" mx" src="{{ asset('assets/contact/isi.png') }}" />--}}
-{{--    </div>--}}
-{{--</div>--}}
-{{--<div class="mt-9">--}}
-{{--    <div class="bg-green-800 bg-opacity-30  mt-3 rounded-xl shadow-lg py-16 px-10 mx-12">--}}
-{{--        <img class="mx-auto" src="{{ asset('assets/contact/image 1.png') }}" />--}}
-{{--    </div>--}}
-{{--</div>--}}
 <div class="m-20">
-    <img class="w-[1280px] h-[700px] shadow rounded-[15px]" src="{{ asset('assets/contact/hero.png') }}" />
+    <img class="w-[1280px] h-[700px] shadow rounded-[15px] mx-16" src="{{ asset('assets/contact/hero.png') }}" />
 </div>
 
 <div>
